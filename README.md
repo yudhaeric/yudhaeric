@@ -32,5 +32,3 @@
   - [Course Command Line](https://drive.google.com/file/d/1xpa0waN5o-QVQiOFESewJBTYDseOqwBk/view?usp=sharing)
 - GEMASTIK
   - [Desain Pengalaman Pengguna (UX Design)](https://drive.google.com/file/d/1M8EPpvz2B8p8YA358XMDF2WJ8x8Zxz_V/view?usp=sharing)
-- Oracle
-  - [Database Design](https://drive.google.com/file/d/1DNhTeVRJTAXy5acovakgZDdmezTI9ZzW/view?usp=sharing)
