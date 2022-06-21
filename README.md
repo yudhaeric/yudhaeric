@@ -5,15 +5,14 @@
 - ☁️ I’m currently learning about **Cloud Computing** at [Bangkit Academy 2022 by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/).
 - 📫 How to reach me: [My Contact](https://biolinky.co/yudhapmksss).
 
-<!--- 
-### 📊 Stats
+### 📊 Status
 <p align="left">
-<a href="https://github.com/yudhapmksss">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhapmksss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudhapmksss&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/yudhaeric">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhaeric&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudhaeric&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--->
+
 
 ### 📄 Certifications
 - Dicoding
