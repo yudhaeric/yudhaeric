@@ -14,7 +14,7 @@
 </p>
 
 
-### 📄 Certifications
+### 📄 Certificate
 - Dicoding
   - [Belajar Dasar Pemrograman Web](https://drive.google.com/file/d/1PNMV7QbtquXjhjNzc6OKYqhtNG0azTKD/view?usp=sharing)
   - [Belajar Dasar Pemrograman JavaScript](https://drive.google.com/file/d/1Rv-tn5BmbmMvoCmR9Z3PktRLld8fSk-V/view?usp=sharing)
