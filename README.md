@@ -1,10 +1,5 @@
 ## Hi there, I'm Yudha. 👋
 
-### 🚀 About Me
-- 🔭 I’m currently studying at Mercu Buana University.
-- ☁️ I’m currently learning about **Cloud Computing** at [Bangkit Academy 2022 by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/).
-- 📫 How to reach me: [My Contact](https://biolinky.co/yudhapmksss).
-
 ### 📊 Status
 <p align="left">
 <a href="https://github.com/yudhaeric">
